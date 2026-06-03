@@ -6,6 +6,6 @@ This repository is a dedicated site for publishing and managing professional exe
 
 You can find the following executive assets linked below:
 
-*   [Resume](./resume.pdf)
 *   [One Page Bio](./one-page-bio.pdf)
 *   [Executive Summary](./executive-summary.pdf)
+*   [Resume](./resume.pdf)
